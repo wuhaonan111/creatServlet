@@ -17,6 +17,7 @@ public class ServletDemo implements Servlet {
     @Override
     public void service(ServletRequest servletRequest, ServletResponse servletResponse) throws ServletException, IOException {
         System.out.println("你好，servlet");
+        System.out.println("ssfffssfsfdddddd---------------");
 
     }
 
